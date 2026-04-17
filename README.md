@@ -8,32 +8,51 @@ Estoy aprediendo un poco de todo lo que puedo, lenguajes frontend, backend, herr
 
 En este momento estoy estudiando el grado superior de Desarrollo de Aplicaciones Multiplataforma
 
-#### Lenguajes de programación utilizados:
+### 🚀 Tecnologías que utilizo
 
-- Java
+#### Backend
+
 - PHP
+- Java
 - JavaScript
+- Spring Boot
+- APIs REST
 
-#### Lenguajes de marcado utilizados
+#### Frontend
 
 - HTML
-
-#### Lenguajes de diseño utilizados
-
 - CSS
+- React
+- Tailwind CSS
+- Bootstrap
 
-#### Frameworks que utilizo 
+#### Frameworks y herramientas
 
-- Laravel (PHP)
-- Tailwind (CSS)
-- Bootstrap (CSS)
+- Laravel
+- Livewire
+- Spring Boot
+- Docker
+- Git
+- GitHub
 
-#### Sistemas de gestión de bases de datos utilizados
+#### Bases de datos
 
-- MYSQL
+- MySQL
 - MariaDB
+- SQLite
+
+#### 💼 He trabajado con
+- Aplicaciones backend con Laravel y PHP
+- Interfaces frontend reactivas con Livewire
+- Contenedores y entornos con Docker
+- Gestión de bases de datos MySQL y MariaDB
 
 
+### 📌 Objetivos en mente
+
+- Seguir mejorando como Full Stack Developer
+- Crear proyectos más completos y escalables
+- Aprender nuevas tecnologías cada año
 <!--
 **AaronFuentesC/AaronFuentesC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
