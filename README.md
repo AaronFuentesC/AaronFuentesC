@@ -1,8 +1,14 @@
+
 ## Aarón Fuentes Casanova
+
 ### Full Stack developer
-Actualmente trabajando con PHP, livewire y principalmente laravel.
+Actualmente trabajando con **PHP**, **Livewire** y principalmente ***Laravel***.
+
 Estoy aprediendo un poco de todo lo que puedo, lenguajes frontend, backend, herramientas, IDEs...
+
 En este momento estoy estudiando el grado superior de Desarrollo de Aplicaciones Multiplataforma
+
+> Ejemplo de blockquote
 
 <!--
 **AaronFuentesC/AaronFuentesC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
