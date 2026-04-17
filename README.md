@@ -8,7 +8,31 @@ Estoy aprediendo un poco de todo lo que puedo, lenguajes frontend, backend, herr
 
 En este momento estoy estudiando el grado superior de Desarrollo de Aplicaciones Multiplataforma
 
-> Ejemplo de blockquote
+#### Lenguajes de programación utilizados:
+
+- Java
+- PHP
+- JavaScript
+
+#### Lenguajes de marcado utilizados
+
+- HTML
+
+#### Lenguajes de diseño utilizados
+
+- CSS
+
+#### Frameworks que utilizo 
+
+- Laravel (PHP)
+- Tailwind (CSS)
+- Bootstrap (CSS)
+
+#### Sistemas de gestión de bases de datos utilizados
+
+- MYSQL
+- MariaDB
+
 
 <!--
 **AaronFuentesC/AaronFuentesC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
