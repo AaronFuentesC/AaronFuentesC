@@ -1,5 +1,5 @@
 
-## Aarón Fuentes Casanova
+## ¡Hola! Soy Aarón Fuentes Casanova 👋
 
 ### Full Stack developer
 Actualmente trabajando con **PHP**, **Livewire** y principalmente ***Laravel***.
@@ -41,7 +41,7 @@ En este momento estoy estudiando el grado superior de Desarrollo de Aplicaciones
 - MariaDB
 - SQLite
 
-#### 💼 He trabajado con
+### 💼 He trabajado con
 - Aplicaciones backend con Laravel y PHP
 - Interfaces frontend reactivas con Livewire
 - Contenedores y entornos con Docker
