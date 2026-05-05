@@ -12,19 +12,19 @@ En este momento estoy estudiando el grado superior de Desarrollo de Aplicaciones
 
 #### Backend
 
-- PHP, Java, JavaScript, Spring Boot, APIs REST
+- PHP | Java | JavaScript | Spring Boot | APIs REST
 
 #### Frontend
 
-- HTML, CSS, React, Tailwind CSS, Bootstrap
+- HTML | CSS | React | Tailwind CSS | Bootstrap
 
 #### Frameworks y herramientas
 
-- Laravel, Livewire, Spring Boot, Docker, Git, Github
+- Laravel | Livewire | Spring Boot | Docker | Git | Github
 
 #### Bases de datos
 
-- MySQL, MariaDB, SQLite
+- MySQL | MariaDB | SQLite
 
 ### 📌 Objetivos en mente
 
