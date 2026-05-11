@@ -4,7 +4,7 @@
 ### Full Stack developer
 Actualmente trabajando con **PHP**, **Livewire** y principalmente ***Laravel***.
 
-Estoy aprediendo un poco de todo lo que puedo, lenguajes frontend, backend, herramientas, IDEs...
+Enfocado en el desarrollo full stack, obteniendo conocimientos acerca de lenguajes frontend, backend, herramientas, IDEs...
 
 En este momento estoy estudiando el grado superior de Desarrollo de Aplicaciones Multiplataforma
 
